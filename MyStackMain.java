@@ -11,5 +11,9 @@ public class MyStackMain {
 		
 		mystack.PrintStack();
 
+		mystack.Peek();
+		mystack.Pop();
+		
+		mystack.PrintStack();
 	}
 }
